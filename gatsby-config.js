@@ -19,9 +19,9 @@ module.exports = {
       options: {
         plugins: [
           {
-            resolve: 'gatsby-remark-twitch',
+            resolve:"gatsby-remark-codepen",
             options: {
-              width: 800,
+              theme: "dark",
               height: 400
             }
           },
