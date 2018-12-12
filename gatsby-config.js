@@ -19,6 +19,13 @@ module.exports = {
       options: {
         plugins: [
           {
+            resolve: 'gatsby-remark-twitch',
+            options: {
+              width: 800,
+              height: 400
+            }
+          },
+          {
             resolve: `gatsby-remark-images`,
             options: {
               maxWidth: 590,

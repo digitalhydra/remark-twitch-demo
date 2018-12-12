@@ -7,6 +7,18 @@ This is my first post on my new fake blog! How exciting!
 
 I'm sure I'll write a lot more interesting things in the future.
 
+#### Twitch video
+
+https://www.twitch.tv/videos/347319713
+
+#### Twitch clip
+
+https://www.twitch.tv/xisuma/clip/MagnificentOilyUdonTTours
+
+#### Twitch channel
+
+https://www.twitch.tv/xisuma
+
 Oh, and here's a great quote from this Wikipedia on
 [salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
 
